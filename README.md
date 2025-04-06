@@ -11,8 +11,6 @@
 
 ✅ Tailwind styling 
 
-✅ Theme toggling 
-
 ✅ Responsive layout 
 
 ✅ Glassmorphism 
