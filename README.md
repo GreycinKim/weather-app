@@ -1,4 +1,4 @@
-# my-todo-app
+# weather-app
  Made a Simple To-do app that incorparates
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
