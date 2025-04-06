@@ -23,7 +23,7 @@ function App() {
         event.preventDefault()
 
         try {
-            const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${input}&appid=d8989fb1b2f89b771d94813f7c6f8ca2&units=${units}`);
+            const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${input}&appid={API_KEY}&units=${units}`);
             if (!response.ok) {
                 throw new Error("City not found"); // This will jump to catch block
             }
